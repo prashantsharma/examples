@@ -21,7 +21,6 @@
   ],
   "devDependencies": {
     "jquery": "~2.1.4",
-    "zenburn": "http://thatjsdude.com/css/zenburn.css",
     "angular": "~1.4.1",
     "lodash": "~3.10.0"
   }

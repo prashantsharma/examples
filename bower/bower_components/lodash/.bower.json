@@ -24,8 +24,7 @@
     "tag": "3.10.0",
     "commit": "9d894f90ff020d49bef24aa70c75e513f43049f2"
   },
-  "_source": "https://github.com/lodash/lodash.git",
+  "_source": "git://github.com/lodash/lodash.git",
   "_target": "~3.10.0",
-  "_originalSource": "lodash",
-  "_direct": true
+  "_originalSource": "lodash"
 }
