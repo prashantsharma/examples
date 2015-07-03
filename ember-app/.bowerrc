@@ -1,0 +1,6 @@
+{
+  "directory": "bower_components",
+  "analytics": false,
+  "proxy":"http://172.18.99.83:8001",
+  "https-proxy":"http://172.18.99.83:8001"
+}
